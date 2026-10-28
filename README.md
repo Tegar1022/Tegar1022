@@ -2,12 +2,9 @@
   <img src="./assets/Ulquiorra%20Cifer.jpg" alt="Header Banner" width="100%" />
 </div>
 
-<br />
-
 <div align="center">
-  <h1>Hi 👋, I'm M. Bias Tegar Islami</h1>
-  <p><b>Student Developer (PPLG) & UI/Visual Enthusiast</b></p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=700&lines=%3E+Currently+learning+Web+Development+%26+Python;%3E+Building+projects+step+by+step+with+VS+Code+%26+Antigravity;%3E+Better+than+before%3F" alt="Typing SVG" />
+  <h1>Hi, I'm M. Bias Tegar Islami!</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Front-End+%26+Full-Stack+Web+Developer;UI%2FUX+Designer+%26+Visual+Content+Creator;Computer+Vision+%26+Real-Time+Systems+Explorer;PPLG+Student+%40+SMK+TI+Dwiguna" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,11 +12,9 @@
     <img src="https://img.shields.io/badge/Email-biassmpn9%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=161B22" alt="Email" />
   </a>
   <a href="https://github.com/Tegar1022?tab=repositories">
-    <img src="https://img.shields.io/github/repos/Tegar1022?label=Public%20Repos&style=for-the-badge&logo=github&logoColor=10B981&labelColor=161B22&color=0D1117" alt="Public Repos" />
+    <img src="https://img.shields.io/badge/Repositories-Public_Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=10B981&labelColor=161B22" alt="Repos" />
   </a>
-  <a href="https://github.com/Tegar1022?tab=followers">
-    <img src="https://img.shields.io/github/followers/Tegar1022?label=Followers&style=for-the-badge&logo=github&logoColor=10B981&labelColor=161B22&color=0D1117" alt="Followers" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Tegar1022&label=PROFILE+VIEWS&color=10B981&style=for-the-badge&labelColor=161B22" alt="Profile Views" />
 </div>
 
 <br />
