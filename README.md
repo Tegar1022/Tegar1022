@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="./assets/Ulquiorra%20Cifer.jpg" alt="Header Banner" width="100%" />
+  <img src="./assets/Ulquiorra%20Cifer.jpg" alt="Ulquiorra Banner" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <h1>Hi, I'm M. Bias Tegar Islami!</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Front-End+%26+Full-Stack+Web+Developer;UI%2FUX+Designer+%26+Visual+Content+Creator;Computer+Vision+%26+Real-Time+Systems+Explorer;PPLG+Student+%40+SMK+TI+Dwiguna" alt="Typing SVG" />
+  <h1>Hi 👋, I'm M. Bias Tegar Islami</h1>
+  <p><b>Student Developer (PPLG) & UI/Visual Enthusiast</b></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=700&lines=%3E+Currently+learning+Web+Development+%26+Python;%3E+Building+projects+step+by+step+with+VS+Code+%26+Antigravity;%3E+Better+than+before%3F" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,31 +15,34 @@
     <img src="https://img.shields.io/badge/Email-biassmpn9%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=161B22" alt="Email" />
   </a>
   <a href="https://github.com/Tegar1022?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Public_Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=10B981&labelColor=161B22" alt="Repos" />
+    <img src="https://img.shields.io/github/repos/Tegar1022?label=Public%20Repos&style=for-the-badge&logo=github&logoColor=10B981&labelColor=161B22&color=0D1117" alt="Public Repos" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Tegar1022&label=PROFILE+VIEWS&color=10B981&style=for-the-badge&labelColor=161B22" alt="Profile Views" />
+  <a href="https://github.com/Tegar1022?tab=followers">
+    <img src="https://img.shields.io/github/followers/Tegar1022?label=Followers&style=for-the-badge&logo=github&logoColor=10B981&labelColor=161B22&color=0D1117" alt="Followers" />
+  </a>
 </div>
 
 <br />
 
 ---
 
-### <samp>About Me</samp>
+### 🖋️ About Me
 
 <table width="100%">
   <tr>
     <td width="62%" valign="top">
+      <p>
+        Halo! Saya <b>Bias Tegar</b>, siswa jurusan <b>PPLG (Pemrograman Perangkat Lunak dan Gim)</b> di <b>SMK TI Dwiguna</b>. Saat ini saya sedang aktif membangun fondasi pemrograman dari dasar melalui pembuatan proyek-proyek nyata.
+      </p>
       <ul>
-        <li>🎓 <b>Education:</b> Siswa jurusan <b>PPLG (Pemrograman Perangkat Lunak dan Gim)</b> di <b>SMK TI Dwiguna</b>, Depok.</li>
-        <li>💻 <b>Web Development:</b> Membangun website interaktif dan aplikasi <i>full-stack</i> menggunakan <b>HTML, CSS, Tailwind CSS, JavaScript, Node.js, Express.js, Socket.IO,</b> dan <b>SQLite</b>.</li>
-        <li>👁️ <b>Computer Vision:</b> Mengembangkan sistem deteksi gestur tangan <i>real-time</i> berbasis <b>Python, OpenCV,</b> dan <b>MediaPipe</b>.</li>
-        <li>🎨 <b>Design & Multimedia:</b> Mahir mengeksekusi desain visual dan <i>layout</i> menggunakan <b>Canva</b>, memahami dasar <i>wireframing</i> di <b>Figma</b>, serta penyuntingan video digital.</li>
-        <li>⚡ <b>Workflow:</b> Memanfaatkan <i>Assistive AI Prompting</i> untuk mempercepat pengembangan kode yang bersih dan terstruktur.</li>
-        <li>🎯 <b>Motto:</b> <i>"Better than before?"</i></li>
+        <li>🌱 <b>Currently Learning:</b> Dasar pengembangan web (<b>HTML, CSS, JavaScript</b>), <i>backend</i> pemula dengan <b>Node.js & SQLite</b>, serta eksplorasi dasar <b>Python</b>.</li>
+        <li>🤖 <b>AI-Assisted Workflow:</b> Memanfaatkan <b>VS Code</b> dan <b>Google Antigravity</b> untuk membantu memahami logika kode, merapikan struktur proyek, dan mempercepat proses belajar.</li>
+        <li>🎨 <b>Creative Side:</b> Senang membuat desain visual menggunakan <b>Canva</b> serta mempelajari tata letak antarmuka (UI) yang bersih.</li>
+        <li>📫 <b>How to reach me:</b> <a href="mailto:biassmpn9@gmail.com">biassmpn9@gmail.com</a></li>
       </ul>
     </td>
     <td width="38%" valign="top">
-      <samp><b>// QUICK_PROFILE</b></samp>
+      <samp><b>// PROFILE_OVERVIEW</b></samp>
       <br /><br />
       <table width="100%">
         <tr>
@@ -46,20 +50,20 @@
           <td><samp>M. Bias Tegar Islami</samp></td>
         </tr>
         <tr>
+          <td><samp><b>School</b></samp></td>
+          <td><samp>SMK TI Dwiguna (PPLG)</samp></td>
+        </tr>
+        <tr>
           <td><samp><b>Location</b></samp></td>
-          <td><samp>Depok, Jawa Barat, ID</samp></td>
+          <td><samp>Depok, Indonesia</samp></td>
         </tr>
         <tr>
-          <td><samp><b>Focus</b></samp></td>
-          <td><samp>Web Dev & UI Design</samp></td>
+          <td><samp><b>Status</b></samp></td>
+          <td><samp>Learning & Building</samp></td>
         </tr>
         <tr>
-          <td><samp><b>Brand</b></samp></td>
-          <td><samp>Moonline Store</samp></td>
-        </tr>
-        <tr>
-          <td><samp><b>Environment</b></samp></td>
-          <td><samp>Windows 10 // VS Code</samp></td>
+          <td><samp><b>Editor</b></samp></td>
+          <td><samp>VS Code & Antigravity</samp></td>
         </tr>
       </table>
     </td>
@@ -70,38 +74,43 @@
 
 ---
 
-<h3 align="center"><samp>Languages · Frameworks · Tools</samp></h3>
+<h3 align="center">💻 Tech Stack & Tools I'm Learning</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,express,sqlite,python,opencv,git,github,vscode,figma,md&perline=7&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,sqlite,vscode,git,github&perline=9&theme=dark" alt="Learning Stack" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Canva_Design-0D1117?style=flat-square&logo=canva&logoColor=10B981&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Socket.IO-0D1117?style=flat-square&logo=socketdotio&logoColor=10B981&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/MediaPipe_Vision-0D1117?style=flat-square&logo=google&logoColor=10B981&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Scratch_Game_Dev-0D1117?style=flat-square&logo=scratch&logoColor=10B981&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/AI_Prompt_Engineering-0D1117?style=flat-square&logo=openai&logoColor=10B981&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Video_Editing-0D1117?style=flat-square&logo=adobe&logoColor=10B981&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <br />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-10B981?style=for-the-badge&logo=google&logoColor=0D1117" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
 <br />
 
 ---
 
-<h3 align="center"><samp>Featured Projects</samp></h3>
+<h3 align="center">🚀 Featured Practice Projects</h3>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4 align="center">⚡ Realtime Workspace Chat</h4>
       <p align="center">
-        <sub><kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>Socket.IO</kbd> <kbd>Tailwind CSS</kbd></sub>
+        <sub><kbd>HTML/CSS</kbd> <kbd>JavaScript</kbd> <kbd>Node.js</kbd> <kbd>Socket.IO</kbd></sub>
       </p>
       <p align="center">
-        Aplikasi komunikasi <i>multi-channel</i> secara <i>real-time</i> berbasis protokol WebSocket. Dilengkapi perpindahan <i>room</i> (<i>#general</i>, <i>#engineering</i>, <i>#deployments</i>), indikator <i>live typing</i>, daftar pengguna aktif, dan pemantauan <i>ping latency</i>.
+        Proyek latihan komunikasi obrolan secara <i>real-time</i> berbasis web menggunakan Node.js dan WebSocket. Dilengkapi fitur perpindahan <i>channel</i>, indikator ketikan langsung, dan tampilan antarmuka gelap yang rapi.
       </p>
       <div align="center">
         <a href="https://github.com/Tegar1022/realtime-workspace-chat">
@@ -112,10 +121,10 @@
     <td width="50%" valign="top">
       <h4 align="center">👁️ Smart Vision Automation</h4>
       <p align="center">
-        <sub><kbd>Python</kbd> <kbd>OpenCV</kbd> <kbd>MediaPipe</kbd> <kbd>CSV Telemetry</kbd></sub>
+        <sub><kbd>Python</kbd> <kbd>OpenCV</kbd> <kbd>MediaPipe</kbd> <kbd>CSV Log</kbd></sub>
       </p>
       <p align="center">
-        Sistem deteksi gestur tangan tanpa sentuh (<i>touchless control</i>) secara <i>real-time</i> melalui webcam. Menampilkan antarmuka <i>Tactical HUD</i> dengan indikator FPS, pelacakan status 5 jari, dan pencatatan riwayat log otomatis ke CSV.
+        Proyek eksplorasi <i>Computer Vision</i> menggunakan Python untuk mendeteksi gestur jari tangan melalui kamera/webcam secara langsung, dilengkapi tampilan informasi <i>HUD</i> dan penyimpanan riwayat otomatis ke CSV.
       </p>
       <div align="center">
         <a href="https://github.com/Tegar1022/smart-vision-automation">
@@ -130,7 +139,7 @@
 
 ---
 
-<h3 align="center"><samp>GitHub Analytics & Contribution Telemetry</samp></h3>
+<h3 align="center">📊 GitHub Stats & Activity</h3>
 
 <table width="100%">
   <tr>
@@ -166,7 +175,10 @@
 ---
 
 <div align="center">
+  <h4>⌘ Philosophy</h4>
   <samp>
     <i>"If this eye cannot see it, then it does not exist. That is the assumption under which I have always fought."</i>
+    <br />
+    <sub>— Ulquiorra Cifer</sub>
   </samp>
 </div>
