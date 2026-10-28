@@ -182,9 +182,3 @@
   </samp>
 </div>
 ---
-
-<div align="center">
-  <samp>
-    <i>"If this eye cannot see it, then it does not exist. That is the assumption under which I have always fought."</i>
-  </samp>
-</div>
