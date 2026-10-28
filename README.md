@@ -21,52 +21,6 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <a href="mailto:biassmpn9@gmail.com">
-        <img src="https://img.shields.io/badge/EMAIL-Contact_Me-0D1117?style=flat-square&logo=gmail&logoColor=10B981&labelColor=161B22" width="100%" alt="Email" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/Tegar1022?tab=repositories">
-        <img src="https://img.shields.io/badge/REPOSITORIES-View_List-0D1117?style=flat-square&logo=github&logoColor=10B981&labelColor=161B22" width="100%" alt="Repos" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/Tegar1022?tab=followers">
-        <img src="https://img.shields.io/badge/FOLLOWERS-Connect-0D1117?style=flat-square&logo=github&logoColor=10B981&labelColor=161B22" width="100%" alt="Followers" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://komarev.com/ghpvc/?username=Tegar1022&label=VIEWS&color=10B981&style=flat-square&labelColor=161B22" width="100%" alt="Profile Views" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
----
-
-<div align="center">
-  <a href="mailto:biassmpn9@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-biassmpn9%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=161B22" alt="Email" />
-  </a>
-  <a href="https://github.com/Tegar1022?tab=repositories">
-    <img src="https://img.shields.io/github/repos/Tegar1022?label=REPOSITORIES&style=for-the-badge&logo=github&logoColor=10B981&labelColor=161B22&color=0D1117" alt="Repos" />
-  </a>
-  <a href="https://github.com/Tegar1022?tab=followers">
-    <img src="https://img.shields.io/github/followers/Tegar1022?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=10B981&labelColor=161B22&color=0D1117" alt="Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Tegar1022&label=PROFILE+VIEWS&color=10B981&style=for-the-badge&labelColor=161B22" alt="Profile Views" />
-</div>
-
-<br />
-
----
-
----
-
 ### 🖋️ About Me
 
 <table width="100%">
