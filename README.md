@@ -5,18 +5,26 @@
 <br />
 
 <div align="center">
-  <h2>Hi 👋, I'm M. Bias Tegar Islami</h2>
-  
-  <p align="center">
-    <code>STATUS: LEARNING & BUILDING</code> &nbsp;&bull;&nbsp; 
-    <code>ROLE: PPLG STUDENT</code> &nbsp;&bull;&nbsp; 
-    <code>STACK: WEB & PYTHON</code>
-  </p>
+  <h1>Hi 👋, I'm M. Bias Tegar Islami</h1>
+  <p><b>Student Developer (PPLG) & UI/Visual Enthusiast</b></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=700&lines=%3E+Currently+learning+Web+Development+%26+Python;%3E+Building+projects+step+by+step+with+VS+Code+%26+Antigravity;%3E+Better+than+before%3F" alt="Typing SVG" />
+</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=780&lines=Front-End+%26+Full-Stack+Web+Developer;Exploring+Node.js%2C+SQLite+%26+Python;UI+Enthusiast+%26+Visual+Content+Creator;Better+than+before%3F" alt="Typing SVG" />
+<div align="center">
+  <a href="mailto:biassmpn9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-biassmpn9%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=161B22" alt="Email" />
+  </a>
+  <a href="https://github.com/Tegar1022?tab=repositories">
+    <img src="https://img.shields.io/github/repos/Tegar1022?label=Public%20Repos&style=for-the-badge&logo=github&logoColor=10B981&labelColor=161B22&color=0D1117" alt="Public Repos" />
+  </a>
+  <a href="https://github.com/Tegar1022?tab=followers">
+    <img src="https://img.shields.io/github/followers/Tegar1022?label=Followers&style=for-the-badge&logo=github&logoColor=10B981&labelColor=161B22&color=0D1117" alt="Followers" />
+  </a>
 </div>
 
 <br />
+
+---
 
 <table width="100%">
   <tr>
