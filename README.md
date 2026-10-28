@@ -5,16 +5,45 @@
 <br />
 
 <div align="center">
-  <h1>Hi 👋, I'm M. Bias Tegar Islami</h1>
-  <p>
-    <img src="https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-0D1117?style=flat-square&logo=git&logoColor=10B981&labelColor=161B22" />
-    <img src="https://img.shields.io/badge/ROLE-PPLG_STUDENT-0D1117?style=flat-square&logo=buffer&logoColor=10B981&labelColor=161B22" />
-    <img src="https://img.shields.io/badge/EDITOR-VS_CODE_%2B_ANTIGRAVITY-0D1117?style=flat-square&logo=visualstudiocode&logoColor=10B981&labelColor=161B22" />
+  <h2>Hi 👋, I'm M. Bias Tegar Islami</h2>
+  
+  <p align="center">
+    <code>STATUS: LEARNING & BUILDING</code> &nbsp;&bull;&nbsp; 
+    <code>ROLE: PPLG STUDENT</code> &nbsp;&bull;&nbsp; 
+    <code>STACK: WEB & PYTHON</code>
   </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=10B981&center=true&vCenter=true&width=780&lines=Front-End+%26+Full-Stack+Web+Developer;Exploring+Node.js%2C+SQLite+%26+Python;UI+Enthusiast+%26+Visual+Content+Creator;Better+than+before%3F" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=780&lines=Front-End+%26+Full-Stack+Web+Developer;Exploring+Node.js%2C+SQLite+%26+Python;UI+Enthusiast+%26+Visual+Content+Creator;Better+than+before%3F" alt="Typing SVG" />
 </div>
 
 <br />
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="mailto:biassmpn9@gmail.com">
+        <img src="https://img.shields.io/badge/EMAIL-Contact_Me-0D1117?style=flat-square&logo=gmail&logoColor=10B981&labelColor=161B22" width="100%" alt="Email" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Tegar1022?tab=repositories">
+        <img src="https://img.shields.io/badge/REPOSITORIES-View_List-0D1117?style=flat-square&logo=github&logoColor=10B981&labelColor=161B22" width="100%" alt="Repos" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Tegar1022?tab=followers">
+        <img src="https://img.shields.io/badge/FOLLOWERS-Connect-0D1117?style=flat-square&logo=github&logoColor=10B981&labelColor=161B22" width="100%" alt="Followers" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://komarev.com/ghpvc/?username=Tegar1022&label=VIEWS&color=10B981&style=flat-square&labelColor=161B22" width="100%" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
 
 <div align="center">
   <a href="mailto:biassmpn9@gmail.com">
