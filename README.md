@@ -5,16 +5,26 @@
 <br />
 
 <div align="center">
-  <h1>Hi, I'm M. Bias Tegar Islami!</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Front-End+%26+Full-Stack+Web+Developer;UI%2FUX+Designer+%26+Visual+Content+Creator;Computer+Vision+%26+Real-Time+Systems+Explorer;PPLG+Student+%40+SMK+TI+Dwiguna" alt="Typing SVG" />
+  <h1>Hi 👋, I'm M. Bias Tegar Islami</h1>
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-0D1117?style=flat-square&logo=git&logoColor=10B981&labelColor=161B22" />
+    <img src="https://img.shields.io/badge/ROLE-PPLG_STUDENT-0D1117?style=flat-square&logo=buffer&logoColor=10B981&labelColor=161B22" />
+    <img src="https://img.shields.io/badge/EDITOR-VS_CODE_%2B_ANTIGRAVITY-0D1117?style=flat-square&logo=visualstudiocode&logoColor=10B981&labelColor=161B22" />
+  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=10B981&center=true&vCenter=true&width=780&lines=Front-End+%26+Full-Stack+Web+Developer;Exploring+Node.js%2C+SQLite+%26+Python;UI+Enthusiast+%26+Visual+Content+Creator;Better+than+before%3F" alt="Typing SVG" />
 </div>
+
+<br />
 
 <div align="center">
   <a href="mailto:biassmpn9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-biassmpn9%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=161B22" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-biassmpn9%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=161B22" alt="Email" />
   </a>
   <a href="https://github.com/Tegar1022?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Public_Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=10B981&labelColor=161B22" alt="Repos" />
+    <img src="https://img.shields.io/github/repos/Tegar1022?label=REPOSITORIES&style=for-the-badge&logo=github&logoColor=10B981&labelColor=161B22&color=0D1117" alt="Repos" />
+  </a>
+  <a href="https://github.com/Tegar1022?tab=followers">
+    <img src="https://img.shields.io/github/followers/Tegar1022?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=10B981&labelColor=161B22&color=0D1117" alt="Followers" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Tegar1022&label=PROFILE+VIEWS&color=10B981&style=for-the-badge&labelColor=161B22" alt="Profile Views" />
 </div>
