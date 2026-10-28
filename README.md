@@ -1,104 +1,210 @@
 <div align="center">
-  <img src="./assets/Ulquiorra%20Cifer.jpg" alt="Ulquiorra Banner" width="100%" style="border-bottom: 2px solid #10B981; border-radius: 8px 8px 0 0;" />
+  <img src="./assets/Ulquiorra%20Cifer.jpg" alt="Ulquiorra Cifer Banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Forging+Digital+Souls;Creative+Front-End+Web+Developer;UI+Designer+%26+Video+Editor;Assistive+AI+Prompting+Specialist;PPLG+Student+%40+SMK+TI+Dwiguna" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=850&lines=%5BESPADA_04%5D+%2F%2F+M.+BIAS+TEGAR+ISLAMI;CREATIVE+FRONT-END+%26+FULL-STACK+DEVELOPER;REAL-TIME+SYSTEMS+%26+COMPUTER+VISION+EXPLORER;VISUAL+DESIGN+%26+AI-ASSISTED+WORKFLOW+SPECIALIST" alt="Typing SVG" />
 </div>
 
-<hr style="border: 1px dashed #30363d;" />
-
-<h2 align="left"><samp>🦇 01. / INITIALIZATION_PROFILE</samp></h2>
-
-Halo! Saya **M. Bias Tegar Islami**, siswa SMK TI Dwiguna jurusan Pemrograman Perangkat Lunak dan Gim (PPLG). Saya adalah seorang **Creative Front-End Web Developer**, **UI Designer**, dan pembuat website interaktif yang menggabungkan logika kode absolut dengan estetika desain murni. 
-
-- ⚔️ **Fokus Saat Ini:** Mengembangkan aplikasi full-stack, website interaktif, dan pemanfaatan *Assistive AI* untuk mempercepat alur kerja (*coding* & desain).
-- 🎨 **Kreativitas Digital:** Mendesain antarmuka UI/UX yang rapi dengan **Figma**, serta mengeksekusi aset visual kreatif dan poster menggunakan **Canva** secara maksimal.
-- 🎮 **Eksplorasi:** Mengembangkan logika mekanik *game* simulasi RPG interaktif menggunakan **Scratch**.
-- 🎯 **Filosofi:** *"better than before?"* 
-<br />
-
-<h2 align="left"><samp>🟢 02. / ARSENAL_&_ABILITIES</samp></h2>
-
-<div align="left">
-  
-  **🌐 Front-End & Web Development**<br>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=10B981&borderColor=30363d" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=10B981&borderColor=30363d" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=10B981&borderColor=30363d" />
-  
-  <br><br>**⚙️ Back-End & Database**<br>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=10B981&borderColor=30363d" />
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=10B981&borderColor=30363d" />
-  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=10B981&borderColor=30363d" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=10B981&borderColor=30363d" />
-
-  <br><br>**🎨 UI/UX, Design & Multimedia**<br>
-  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=10B981&borderColor=30363d" />
-  <img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=10B981&borderColor=30363d" />
-  <img src="https://img.shields.io/badge/Video_Editing-0D1117?style=for-the-badge&logo=adobe&logoColor=10B981&borderColor=30363d" />
-  <img src="https://img.shields.io/badge/Scratch_Dev-0D1117?style=for-the-badge&logo=scratch&logoColor=10B981&borderColor=30363d" />
-
-  <br><br>**🛠️ Core Skills & Workflow**<br>
-  <img src="https://img.shields.io/badge/AI_Prompting-0D1117?style=for-the-badge&logo=openai&logoColor=10B981&borderColor=30363d" />
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=10B981&borderColor=30363d" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=10B981&borderColor=30363d" />
-  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=10B981&borderColor=30363d" />
-  <img src="https://img.shields.io/badge/Public_Speaking-0D1117?style=for-the-badge&logo=mic&logoColor=10B981&borderColor=30363d" />
-
+<div align="center">
+  <a href="mailto:biassmpn9@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-biassmpn9%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=10B981&labelColor=161B22" alt="Email" />
+  </a>
+  <a href="https://github.com/Tegar1022?tab=repositories">
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-0D1117?style=flat-square&logo=github&logoColor=10B981&labelColor=161B22" alt="Status" />
+  </a>
+  <img src="https://img.shields.io/badge/LOCATION-DEPOK%2C_ID-0D1117?style=flat-square&logo=googlemaps&logoColor=10B981&labelColor=161B22" alt="Location" />
+  <img src="https://img.shields.io/badge/DIVISION-PPLG_%2F%2F_SMK_TI_DWIGUNA-0D1117?style=flat-square&logo=buffer&logoColor=10B981&labelColor=161B22" alt="Division" />
 </div>
 
 <br />
 
-<h2 align="left"><samp>📊 03. / SYSTEM_METRICS_DASHBOARD</samp></h2>
+---
 
-<table width="100%" style="border-collapse: collapse; border: none;">
+### <samp>01 // INITIALIZATION_DOSSIER</samp>
+
+<table width="100%">
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; background-color: #0D1117;">
+    <td width="60%" valign="top">
+      <p>
+        Halo, saya <b>M. Bias Tegar Islami</b> — siswa jurusan <b>Pemrograman Perangkat Lunak dan Gim (PPLG)</b> di <b>SMK TI Dwiguna</b>. Saya berfokus pada pengembangan web interaktif, arsitektur aplikasi <i>full-stack</i>, serta integrasi <i>Assistive AI</i> untuk membangun produk digital yang presisi dan fungsional.
+      </p>
+      <ul>
+        <li><samp><b>SYSTEM_ENGINEERING</b></samp> — Merancang aplikasi berbasis <b>Node.js</b>, <b>Express.js</b>, <b>SQLite</b>, dan komunikasi dua arah via <b>WebSocket (Socket.IO)</b>.</li>
+        <li><samp><b>VISION_AUTOMATION</b></samp> — Mengeksplorasi deteksi objek dan pelacakan gestur <i>real-time</i> menggunakan <b>Python</b>, <b>OpenCV</b>, dan <b>MediaPipe</b>.</li>
+        <li><samp><b>VISUAL_EXECUTION</b></samp> — Mahir mengeksekusi tata letak visual, aset antarmuka, dan materi kreatif menggunakan <b>Canva</b>, didukung perancangan dasar <i>wireframe</i> di <b>Figma</b> serta penyuntingan video digital.</li>
+        <li><samp><b>AI_WORKFLOW</b></samp> — Mengoptimalkan <i>prompt engineering</i> untuk akselerasi penulisan kode modular dan eksplorasi desain antarmuka.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <samp><b>// OPERATOR_SPECIFICATIONS</b></samp>
+      <br /><br />
+      <table>
+        <tr>
+          <td><samp>CALLSIGN</samp></td>
+          <td><samp><b>Bias / Tegar</b></samp></td>
+        </tr>
+        <tr>
+          <td><samp>ROLE</samp></td>
+          <td><samp>Front-End & Full-Stack Dev</samp></td>
+        </tr>
+        <tr>
+          <td><samp>BASE_OS</samp></td>
+          <td><samp>Windows // VS Code // Git</samp></td>
+        </tr>
+        <tr>
+          <td><samp>VENTURE</samp></td>
+          <td><samp>Moonline Store (Digital Ops)</samp></td>
+        </tr>
+        <tr>
+          <td><samp>PHILOSOPHY</samp></td>
+          <td><samp><i>"Better than before?"</i></samp></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### <samp>02 // RESURRECCIÓN_ARSENAL</samp>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%" align="left"><samp>DOMAIN</samp></th>
+      <th width="75%" align="left"><samp>TECHNOLOGIES & TOOLS</samp></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><samp><b>01. FRONT-END & UI</b></samp><br /><sub>Interactive Web & Styling</sub></td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=10B981" />
+        <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=10B981" />
+        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=10B981" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=10B981" />
+      </td>
+    </tr>
+    <tr>
+      <td><samp><b>02. BACK-END & REALTIME</b></samp><br /><sub>REST API, Socket & Database</sub></td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=10B981" />
+        <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=10B981" />
+        <img src="https://img.shields.io/badge/Socket.IO-0D1117?style=for-the-badge&logo=socketdotio&logoColor=10B981" />
+        <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=10B981" />
+      </td>
+    </tr>
+    <tr>
+      <td><samp><b>03. VISION & LOGIC</b></samp><br /><sub>Computer Vision & Game Dev</sub></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=10B981" />
+        <img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=10B981" />
+        <img src="https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge&logo=google&logoColor=10B981" />
+        <img src="https://img.shields.io/badge/Scratch_RPG-0D1117?style=for-the-badge&logo=scratch&logoColor=10B981" />
+      </td>
+    </tr>
+    <tr>
+      <td><samp><b>04. DESIGN & WORKFLOW</b></samp><br /><sub>Visual Assets, AI & Versioning</sub></td>
+      <td>
+        <img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=10B981" />
+        <img src="https://img.shields.io/badge/Figma_Basics-0D1117?style=for-the-badge&logo=figma&logoColor=10B981" />
+        <img src="https://img.shields.io/badge/AI_Prompting-0D1117?style=for-the-badge&logo=openai&logoColor=10B981" />
+        <img src="https://img.shields.io/badge/Git_%26_GitHub-0D1117?style=for-the-badge&logo=git&logoColor=10B981" />
+        <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=10B981" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+### <samp>03 // EXECUTED_OPERATIONS (FEATURED_PROJECTS)</samp>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <samp><b>OP_01 // REALTIME_WORKSPACE_CHAT</b></samp>
+      <br />
+      <sub><kbd>Node.js</kbd> <kbd>Socket.IO</kbd> <kbd>Express</kbd> <kbd>Tailwind CSS</kbd></sub>
+      <p>
+        Sistem komunikasi <i>multi-channel</i> secara <i>real-time</i> berbasis protokol WebSocket. Dilengkapi isolasi ruang obrolan (<i>#general</i>, <i>#engineering</i>, <i>#deployments</i>), indikator <i>live typing</i>, pemantauan <i>latency/ping</i> (ms), dan sanitasi input.
+      </p>
+      <a href="https://github.com/Tegar1022/realtime-workspace-chat">
+        <img src="https://img.shields.io/badge/INSPECT_REPOSITORY-%E2%86%92-0D1117?style=flat-square&logo=github&logoColor=10B981&labelColor=161B22" alt="Realtime Chat Repo" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <samp><b>OP_02 // SMART_VISION_AUTOMATION</b></samp>
+      <br />
+      <sub><kbd>Python 3.12</kbd> <kbd>OpenCV</kbd> <kbd>MediaPipe</kbd> <kbd>CSV Telemetry</kbd></sub>
+      <p>
+        Mesin deteksi gestur tangan tanpa sentuh (<i>touchless telemetry</i>) secara <i>real-time</i>. Menampilkan antarmuka <i>Tactical HUD</i> di atas <i>stream</i> kamera dengan kalkulasi FPS, klasifikasi status 5 jari, dan pencatatan log ke CSV.
+      </p>
+      <a href="https://github.com/Tegar1022/smart-vision-automation">
+        <img src="https://img.shields.io/badge/INSPECT_REPOSITORY-%E2%86%92-0D1117?style=flat-square&logo=github&logoColor=10B981&labelColor=161B22" alt="Smart Vision Repo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <samp><b>OP_03 // STUDENT_ATTENDANCE_CORE</b></samp>
+      <br />
+      <sub><kbd>Node.js</kbd> <kbd>Express.js</kbd> <kbd>SQLite3</kbd> <kbd>REST API</kbd></sub>
+      <p>
+        Aplikasi <i>full-stack</i> manajemen direktori siswa dan pencatatan presensi harian. Menggunakan arsitektur MVC modular, relasi tabel <i>Foreign Key / JOIN</i> pada database SQLite, serta <i>dashboard</i> bertema <i>Enterprise Dark</i>.
+      </p>
+      <a href="https://github.com/Tegar1022/student-attendance-api">
+        <img src="https://img.shields.io/badge/INSPECT_REPOSITORY-%E2%86%92-0D1117?style=flat-square&logo=github&logoColor=10B981&labelColor=161B22" alt="Attendance API Repo" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <samp><b>OP_04 // CREATIVE_PORTFOLIO_&_AUTOMATION</b></samp>
+      <br />
+      <sub><kbd>HTML/CSS/JS</kbd> <kbd>UI/UX</kbd> <kbd>WhatsApp Bot</kbd> <kbd>AI Workflow</kbd></sub>
+      <p>
+        Eksplorasi antarmuka portofolio web interaktif dengan estetika <i>dark-brutalist</i> serta pengembangan sistem bot otomatisasi layanan digital untuk operasional <b>Moonline Store</b>.
+      </p>
+      <a href="https://github.com/Tegar1022/Portofolias">
+        <img src="https://img.shields.io/badge/INSPECT_REPOSITORY-%E2%86%92-0D1117?style=flat-square&logo=github&logoColor=10B981&labelColor=161B22" alt="Portfolio Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### <samp>04 // SYSTEM_METRICS_&_TELEMETRY</samp>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=Tegar1022&show_icons=true&bg_color=0D1117&title_color=10B981&text_color=c9d1d9&icon_color=10B981&border_color=30363d&hide_border=true" alt="GitHub Stats" width="100%" />
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; background-color: #0D1117;">
+    <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tegar1022&layout=compact&bg_color=0D1117&title_color=10B981&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="Top Languages" width="100%" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top" style="border: 1px solid #30363d; background-color: #0D1117;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tegar1022&background=0D1117&ring=10B981&fire=10B981&currStreakNum=10B981&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=30363d&hide_border=true" alt="GitHub Streak" width="100%" />
+    <td colspan="2" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tegar1022&background=0D1117&ring=10B981&fire=10B981&currStreakNum=10B981&sideNums=c9d1d9&currStreakLabel=10B981&sideLabels=8b949e&dates=8b949e&border=30363d&hide_border=true" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
-</table>
-
-<br />
-
-<h2 align="left"><samp>📌 04. / EXECUTED_PROJECTS</samp></h2>
-
-<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; background-color: #0D1117;">
-      <h3 align="center" style="color: #c9d1d9;">School Web App</h3>
-      <p align="center" style="color: #8b949e; font-size: 14px;">Aplikasi full-stack manajemen sekolah. Backend menggunakan Express.js dan SQLite untuk manajemen guru, siswa, dan galeri.</p>
-      <div align="center">
-        <a href="https://github.com/Tegar1022">
-          <img src="https://img.shields.io/badge/View%20Project-0D1117?style=flat-square&logo=github&logoColor=10B981&borderColor=30363d" alt="Repo 1" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; background-color: #0D1117;">
-      <h3 align="center" style="color: #c9d1d9;">Owner Maker</h3>
-      <p align="center" style="color: #8b949e; font-size: 14px;">Bot otomatisasi untuk operasional layanan digital premium, menggabungkan pemahaman sistem dengan manajemen layanan.</p>
-      <div align="center">
-        <a href="https://github.com/Tegar1022">
-          <img src="https://img.shields.io/badge/View%20Project-0D1117?style=flat-square&logo=github&logoColor=10B981&borderColor=30363d" alt="Repo 2" />
-        </a>
-      </div>
+    <td colspan="2" valign="top">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tegar1022&bg_color=0D1117&color=c9d1d9&line=10B981&point=ffffff&area=true&area_color=10B981&hide_border=true" alt="GitHub Activity Graph" width="100%" />
     </td>
   </tr>
 </table>
 
 <br />
+
+---
 
 <div align="center">
-  <p style="color: #8b949e; font-size: 13px; font-family: 'Courier New', Courier, monospace;">
-    <i>"If this eye cannot see it, then it does not exist. That is the assumption under which I have always fought." <br>— Espada Cuatro</i>
-  </p>
+  <samp>
+    <sub>"If this eye cannot see it, then it does not exist. That is the assumption under which I have always fought."</sub>
+    <br />
+    <b>— ULQUIORRA CIFER // CUATRO ESPADA</b>
+  </samp>
 </div>
