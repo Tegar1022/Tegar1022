@@ -27,13 +27,13 @@
   <tr>
     <td width="62%" valign="top">
       <p>
-        Halo! Saya <b>Bias Tegar</b>, siswa jurusan <b>PPLG (Pemrograman Perangkat Lunak dan Gim)</b> di <b>SMK TI Dwiguna</b>. Saat ini saya sedang aktif membangun fondasi pemrograman dari dasar melalui pembuatan proyek-proyek nyata.
+        Halo! Saya <b>Bias Tegar</b>, siswa jurusan <b>PPLG (Pemrograman Perangkat Lunak dan Gim)</b> di <b>SMK TI Dwiguna</b>[cite: 1]. Saat ini saya sedang aktif membangun fondasi pemrograman dari dasar melalui pembuatan proyek-proyek nyata.
       </p>
       <ul>
-        <li>🌱 <b>Currently Learning:</b> Dasar pengembangan web (<b>HTML, CSS, JavaScript</b>), <i>backend</i> pemula dengan <b>Node.js & SQLite</b>, serta eksplorasi dasar <b>Python</b>.</li>
-        <li>🤖 <b>AI-Assisted Workflow:</b> Memanfaatkan <b>VS Code</b> dan <b>Google Antigravity</b> untuk membantu memahami logika kode, merapikan struktur proyek, dan mempercepat proses belajar.</li>
-        <li>🎨 <b>Creative Side:</b> Senang membuat desain visual menggunakan <b>Canva</b> serta mempelajari tata letak antarmuka (UI) yang bersih.</li>
-        <li>📫 <b>How to reach me:</b> <a href="mailto:biassmpn9@gmail.com">biassmpn9@gmail.com</a></li>
+        <li>🌱 <b>Currently Learning:</b> Dasar pengembangan web (<b>HTML, CSS, JavaScript</b>)[cite: 1], <i>backend</i> pemula dengan <b>Node.js & SQLite</b>, serta eksplorasi dasar <b>Python</b>[cite: 1].</li>
+        <li>🤖 <b>AI-Assisted Workflow:</b> Memanfaatkan <b>VS Code</b> dan <b>Google Antigravity</b> untuk membantu memahami logika kode, merapikan struktur proyek, dan mempercepat proses belajar[cite: 1].</li>
+        <li>🎨 <b>Creative Side:</b> Senang membuat desain visual menggunakan <b>Canva</b> serta mempelajari tata letak antarmuka (UI) yang bersih[cite: 1].</li>
+        <li>📫 <b>How to reach me:</b> <a href="mailto:biassmpn9@gmail.com">biassmpn9@gmail.com</a>[cite: 1]</li>
       </ul>
     </td>
     <td width="38%" valign="top">
@@ -105,7 +105,7 @@
         <sub><kbd>HTML/CSS</kbd> <kbd>JavaScript</kbd> <kbd>Node.js</kbd> <kbd>Socket.IO</kbd></sub>
       </p>
       <p align="center">
-        Proyek latihan komunikasi obrolan secara <i>real-time</i> berbasis web menggunakan Node.js dan WebSocket. Dilengkapi fitur perpindahan <i>channel</i>, indikator ketikan langsung, dan tampilan antarmuka gelap yang rapi.
+        Proyek latihan komunikasi obrolan secara <i>real-time</i> berbasis web menggunakan Node.js dan WebSocket. Dilengkapi fitur perpindahan <i>channel</i>, indikator ketikan langsung, dan tampilan antarmuka gelap yang rapi[cite: 1].
       </p>
       <div align="center">
         <a href="https://github.com/Tegar1022/realtime-workspace-chat">
@@ -119,7 +119,7 @@
         <sub><kbd>Python</kbd> <kbd>OpenCV</kbd> <kbd>MediaPipe</kbd> <kbd>CSV Log</kbd></sub>
       </p>
       <p align="center">
-        Proyek eksplorasi <i>Computer Vision</i> menggunakan Python untuk mendeteksi gestur jari tangan melalui kamera/webcam secara langsung, dilengkapi tampilan informasi <i>HUD</i> dan penyimpanan riwayat otomatis ke CSV.
+        Proyek eksplorasi <i>Computer Vision</i> menggunakan Python untuk mendeteksi gestur jari tangan melalui kamera/webcam secara langsung, dilengkapi tampilan informasi <i>HUD</i> dan penyimpanan riwayat otomatis ke CSV[cite: 1].
       </p>
       <div align="center">
         <a href="https://github.com/Tegar1022/smart-vision-automation">
@@ -150,19 +150,6 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tegar1022&background=0D1117&ring=10B981&fire=10B981&currStreakNum=10B981&sideNums=c9d1d9&currStreakLabel=10B981&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tegar1022&theme=github_dark" alt="Repos Per Language" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tegar1022&theme=github_dark&utcOffset=7" alt="Productive Time" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tegar1022&theme=github_dark" alt="Profile Contribution Graph" width="100%" />
-    </td>
-  </tr>
 </table>
 
 <br />
@@ -177,4 +164,3 @@
     <sub>— Ulquiorra Cifer</sub>
   </samp>
 </div>
-
